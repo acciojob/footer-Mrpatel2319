@@ -35,7 +35,7 @@ ul li{list-style:none;
 	 padding:8px 0;}
 
 .underline{text-decoration:underline;}
-.media-icons{}
+.media-icons{display:flex;}
 .facebook-icon{}
 .twitter-icon{}
 .instagram-icon{}
